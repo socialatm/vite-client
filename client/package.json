@@ -21,7 +21,8 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "test": "react-scripts test",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite"
   },
   "eslintConfig": {
